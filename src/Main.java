@@ -78,7 +78,7 @@ public class Main {
         }while(error>tolerancia);
 
     }
-    public static double ecuacion(double x){
+    public static double ecuacion(double x){//sjkhdhjkashjdsjhkdhjk
         return (Math.pow(x,3))-3*x+1;
     }
 
